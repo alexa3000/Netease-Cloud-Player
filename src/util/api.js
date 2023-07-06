@@ -1,7 +1,7 @@
 const API_ROOT =
   process.env.NODE_ENV === 'development'
-    ? 'https://music.zusheng.club'
-    : 'https://music.zusheng.club'
+    ? 'https://netease-cloud-music-f4u1p2cjb-imzusheng.vercel.app'
+    : 'https://netease-cloud-music-f4u1p2cjb-imzusheng.vercel.app'
 
 // 'https://netease-cloud-music-f4u1p2cjb-imzusheng.vercel.app'
 
